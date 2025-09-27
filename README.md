@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://bingoanime.net/og.png" alt="BingoAnime Thumbnail" width="100%" />
+  <img src="https://bingoanime.net/og.png" alt="BingoAnime Thumbnail" style="border-radius: 12px; max-width: 100%; height: auto;" />
 </p>
 
 # 🌸 BingoAnime — Your Premium Destination for Anime Streaming
